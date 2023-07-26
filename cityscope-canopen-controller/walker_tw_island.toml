@@ -1,0 +1,23 @@
+#proximity_node's eds => mcu.eds
+[proximity]
+config_file = "/home/csl/drumelectric/cityscope-canopen-controller/mcu.eds"
+
+
+
+[[proximity.nodes]]
+node_id = 31
+
+
+[[proximity.nodes]]
+node_id = 33
+
+
+[[proximity.nodes]]
+node_id = 32
+
+
+[[proximity.nodes]]
+node_id = 34
+
+[[proximity.nodes]]
+node_id = 35
